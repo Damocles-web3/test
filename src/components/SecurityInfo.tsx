@@ -110,7 +110,7 @@ export default function SecurityInfo() {
             <motion.div 
               key={index}
               variants={itemVariants}
-              variants={hoverVariants}
+            
               whileHover="hover"
               className="bg-gray-900 rounded-xl p-6 border border-gray-800 transition-all hover:shadow-lg hover:shadow-green-500/10"
             >
